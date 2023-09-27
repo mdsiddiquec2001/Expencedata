@@ -1,2 +1,2 @@
-# Expencedata
-used: React.js , javascript , html , css ,
+# Expencedata.github.io
+
